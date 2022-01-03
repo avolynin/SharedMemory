@@ -15,7 +15,7 @@ namespace MemoryTest
 			//var message = Console.ReadLine().ToCharArray();
 			//var size = message.Length * sizeof(char) + sizeof(int);
 
-			var sharedMemory = MemoryMappedFile.CreateOrOpen("Name of map", imageBytes.Length);
+			var sharedMemory = MemoryMappedFile.CreateNew("Name of map", imageBytes.Length);
 			using(var writer = sharedMemory.CreateViewAccessor(0, imageBytes.Length))
 			{
 				writer.Write(0, imageBytes.Length);
