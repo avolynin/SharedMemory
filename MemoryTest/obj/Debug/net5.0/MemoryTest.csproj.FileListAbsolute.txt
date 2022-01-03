@@ -1,0 +1,16 @@
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\bin\Debug\net5.0\MemoryTest.exe
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\bin\Debug\net5.0\MemoryTest.deps.json
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\bin\Debug\net5.0\MemoryTest.runtimeconfig.json
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\bin\Debug\net5.0\MemoryTest.runtimeconfig.dev.json
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\bin\Debug\net5.0\MemoryTest.dll
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\bin\Debug\net5.0\ref\MemoryTest.dll
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\bin\Debug\net5.0\MemoryTest.pdb
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\obj\Debug\net5.0\MemoryTest.csproj.AssemblyReference.cache
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\obj\Debug\net5.0\MemoryTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\obj\Debug\net5.0\MemoryTest.AssemblyInfoInputs.cache
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\obj\Debug\net5.0\MemoryTest.AssemblyInfo.cs
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\obj\Debug\net5.0\MemoryTest.csproj.CoreCompileInputs.cache
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\obj\Debug\net5.0\MemoryTest.dll
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\obj\Debug\net5.0\ref\MemoryTest.dll
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\obj\Debug\net5.0\MemoryTest.pdb
+D:\Users\Camputer\source\repos\MemoryTest\MemoryTest\obj\Debug\net5.0\MemoryTest.genruntimeconfig.cache
